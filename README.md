@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Storage Estimator - Main Version
+=======
+# Storage Estimator - Feature Version
+>>>>>>> conflict-branch
 
 ## Purpose
 Converts a file size from MB to GB.
